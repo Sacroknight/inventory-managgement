@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-3.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/DAO_SHOP.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-24.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/KGradientPanel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-intellij-themes-3.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
